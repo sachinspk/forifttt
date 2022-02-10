@@ -24,6 +24,7 @@ methods to make functions easier and effective
 #filter()
 #Reduce()
 
+#yes
 ################################################################################
 '''
 Lambda function :
